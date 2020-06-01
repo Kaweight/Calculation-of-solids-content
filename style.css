@@ -4,11 +4,9 @@
 }
 
 body {
-    /* display: flex; */
     align-items: center;
     justify-content: center;
     height: 100vh;
-    /* background-image: linear-gradient(280deg, #44bd32 0%, #718093 20%); */
     background-color: #353b48;
 }
 
@@ -87,8 +85,5 @@ span {
     text-align: center;
     font-size: 200%;
     color: #ecf0f1;
-    /* font-weight: bold; */
     padding-top: 2rem;
-    /* text-shadow: 1px 1px 15px #4cd137; */
-
 }
